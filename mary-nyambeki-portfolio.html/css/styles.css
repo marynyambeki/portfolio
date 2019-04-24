@@ -1,0 +1,19 @@
+h1 {  
+   color: blueviolet;
+   text-align: center
+}
+h2 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+}
+p {
+    font-style: italic
+}
+ul {
+    line-height: 40px
+}
+
+body {
+    background-image: url ('https://images.pexels.com/photos/534204/pexels-photo-534204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+}
