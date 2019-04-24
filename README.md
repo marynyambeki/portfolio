@@ -1,5 +1,5 @@
 # Portfolio
-#### My portfolio to sell me to the job market, Sunday April 21 2019 ::
+#### My first ever web Portfolio
 #### By **MARY NYAMBEKI**
 ## Description
 This is ideally a portfolio of my website containing simple things about me. It has different sections namely my name,my background,education, interests and hobbies and above all my interest in Moringa School.
