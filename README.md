@@ -16,7 +16,7 @@ Feel free to contact me @marynyambeki on slack
 
 ## Setup/Installation Requirements
 * I added the changes as i commit to the github
-Web browser Internet connection Link to the app: https://marynyambeki.github.io/Triangle-Tracker/
+Web browser Internet connection Link to the app: https://marynyambeki.github.io/portfolio/
 
 ### License
 MIT - <https://opensource.org/licenses/MIT>
